@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Daniel Villavicencio
+ * ISM 4300
+ * Tech Project 1
+ * 
+ */ 
+
+using System;
 
 namespace Tech_Assignment_1___Simple_Console_App
 {
